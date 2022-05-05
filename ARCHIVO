@@ -8,6 +8,7 @@ uci set openvpn.client_prueba2.enable=1
 fi
 
 
+systemctl status openvpn@client-home.
 
 
 
